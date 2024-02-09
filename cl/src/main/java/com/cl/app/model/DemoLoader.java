@@ -1,4 +1,4 @@
-package com.crm.app.model;
+package com.cl.app.model;
 
 import org.springframework.boot.CommandLineRunner;
 import org.springframework.stereotype.Component;

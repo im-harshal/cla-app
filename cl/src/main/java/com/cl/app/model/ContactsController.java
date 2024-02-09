@@ -1,4 +1,4 @@
-package com.crm.app.model;
+package com.cl.app.model;
 
 import org.springframework.http.ResponseEntity;
 import org.springframework.validation.annotation.Validated;

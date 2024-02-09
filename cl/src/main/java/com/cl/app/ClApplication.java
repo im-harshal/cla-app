@@ -1,4 +1,4 @@
-package com.crm.app;
+package com.cl.app;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
